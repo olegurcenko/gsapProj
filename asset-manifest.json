@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gsapProj/static/css/main.03742484.css",
+    "main.js": "/gsapProj/static/js/main.958b95ab.js",
+    "static/media/noise.gif": "/gsapProj/static/media/noise.93fe26ae97a4df3d4e67.gif",
+    "static/media/learningTogether.png": "/gsapProj/static/media/learningTogether.5dc0f194a64e106ac68d.png",
+    "static/media/chatBot.png": "/gsapProj/static/media/chatBot.24fa80addf84548d67ea.png",
+    "static/media/technoStore.jpg": "/gsapProj/static/media/technoStore.1ce72afe64a39577d8e7.jpg",
+    "static/media/badge.svg": "/gsapProj/static/media/badge.60ff8077254da4c0cbc7ee853a024a57.svg",
+    "static/media/logo.svg": "/gsapProj/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/instagram.svg": "/gsapProj/static/media/instagram.4bd4a3cb2dbc5631444eee37b275b051.svg",
+    "static/media/github.svg": "/gsapProj/static/media/github.3b21c250a99986431958daaa9246a45a.svg",
+    "static/media/telegram.svg": "/gsapProj/static/media/telegram.4bcc26c0602dc9b0238120d34f208343.svg",
+    "index.html": "/gsapProj/index.html",
+    "main.03742484.css.map": "/gsapProj/static/css/main.03742484.css.map",
+    "main.958b95ab.js.map": "/gsapProj/static/js/main.958b95ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03742484.css",
+    "static/js/main.958b95ab.js"
+  ]
+}
